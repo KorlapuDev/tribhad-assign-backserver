@@ -33,7 +33,3 @@ connectDB()
       err
     );
   });
-
-///--> mongodb://kabhishek1372000:kabhishek1372000@undefined/?replicaSet=atlas-315w4d-shard-0&ssl=true&authSource=admin
-
-///mongodb://localhost:27017/
